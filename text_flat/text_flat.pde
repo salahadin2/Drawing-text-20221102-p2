@@ -6,10 +6,11 @@ PFont titleFont;
 //
 size(500, 600); //Portrait
 //Copy Display //Global Variables
-int appWidth, appHeight, fontSize;
-float titleX, titleY, titleWidth, titleHeight;
-String title = "Wahoo!";
-PFont titleFont;
+//int appWidth, appHeight, fontSize; 
+
+ //float titleX, titleY, titleWidth, titleHeight;
+//String title = "Wahoo!";
+//Font titleFont;
 color purple=#2C08FF, resetDefaultInk=#FFFFFF; //not Night Mode Friendly
 //
 size(500, 600); //Portrait
